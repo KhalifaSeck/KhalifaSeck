@@ -269,36 +269,27 @@ focus:      Modern data platforms · Real-time streaming · AI-powered analytics
 
 <p align="center">
   <a href="https://github.com/KhalifaSeck">
-    <img src="https://github-readme-stats.vercel.app/api?username=KhalifaSeck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0&v=3" height="180" alt="GitHub stats"/>
+    <img src="https://streak-stats.demolab.com?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff" height="180" alt="GitHub streak"/>
   </a>
   <a href="https://github.com/KhalifaSeck">
-    <img src="https://streak-stats.demolab.com?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff&v=3" height="180" alt="GitHub streak"/>
+    <img src="https://github-readme-stats.hackclub.dev/api?username=KhalifaSeck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0" height="180" alt="GitHub stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KhalifaSeck">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8&v=3" height="180" alt="Top languages"/>
-  </a>
-  <a href="https://github.com/KhalifaSeck">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhalifaSeck&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=10&v=3" height="180" alt="Trophies"/>
+    <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8" height="180" alt="Top languages"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KhalifaSeck">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalifaSeck&theme=tokyo-night&bg_color=0a0e27&color=00d9ff&line=a855f7&point=14b8a6&hide_border=true&area=true&v=3" width="100%" alt="Activity graph"/>
-  </a>
-</p>
-
-<!-- Contribution graph fallback (always works — no dependency on external services) -->
+<!-- Contribution chart — reliable, works without external caching issues -->
 <p align="center">
   <a href="https://github.com/KhalifaSeck">
     <img src="https://ghchart.rshah.org/00d9ff/KhalifaSeck" width="100%" alt="KhalifaSeck contribution chart"/>
   </a>
 </p>
 
-<!-- Snake contribution animation (activated via .github/workflows/snake.yml) -->
+<!-- Snake contribution animation (activated via .github/workflows/snake.yml — must be triggered manually once) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhalifaSeck/KhalifaSeck/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
