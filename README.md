@@ -272,13 +272,13 @@ focus:      Modern data platforms · Real-time streaming · AI-powered analytics
     <img src="https://streak-stats.demolab.com?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff" height="180" alt="GitHub streak"/>
   </a>
   <a href="https://github.com/KhalifaSeck">
-    <img src="https://github-readme-stats.hackclub.dev/api?username=KhalifaSeck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0" height="180" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KhalifaSeck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0&v=10" height="180" alt="GitHub stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KhalifaSeck">
-    <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8" height="180" alt="Top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8&v=10" height="180" alt="Top languages"/>
   </a>
 </p>
 
