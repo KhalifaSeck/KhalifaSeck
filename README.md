@@ -22,20 +22,20 @@
 
 ## 01 · About Me
 
-Hi, I'm **Khalifa Ababacar Seck**, a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**. Originally from **Senegal**, I moved to **Quebec, Canada** to pursue a Master's in Computer Science at the **University of Sherbrooke**, focusing on data engineering, data science and information systems.
+Hi, I'm **Khalifa Ababacar Seck**, a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**. Originally from **Diourbel, Senegal**, I moved to **Quebec, Canada** to pursue a Master's in Computer Science at the **Université de Sherbrooke**, focusing on data engineering, data science and information systems.
 
-My journey with data started in Senegal, where I earned a Bachelor's and a Master's in **Statistics and Decision-Making Informatics** at the University Alioune Diop of Bambey, before deepening my skills in modern data platforms and cloud infrastructure in Canada. I love the whole life-cycle of data designing **ingestion pipelines**, building **real-time streaming architectures**, modeling with **dbt** on warehouses like **Snowflake**, and shipping **AI-powered analytics** and dashboards that people actually use.
+My journey with data started in Senegal, where I earned a Bachelor's and a Master's in **Statistics and Decision-Making Informatics** at the Université Alioune Diop, before deepening my skills in modern data platforms and cloud infrastructure in Canada. I love the whole life-cycle of data — designing **ingestion pipelines**, building **real-time streaming architectures**, modeling with **dbt** on warehouses like **Snowflake**, and shipping **AI-powered analytics** and dashboards that people actually use.
 
-Collaboration and clear communication are at the core of how I work. I'm fluent in **French**, **English** and **Wolof**, a language I even taught to a speech-recognition model in one of my recent projects and I thrive in multicultural, cross-functional environments.
+Collaboration and clear communication are at the core of how I work. I'm fluent in **French**, **English** and **Wolof** — a language I even taught to a speech-recognition model in one of my recent projects — and I thrive in multicultural, cross-functional environments.
 
-Outside of data pipelines and cloud diagrams, I enjoy exploring new technologies, contributing to open-source, and turning complex problems into elegant systems. Thanks for visiting my portfolio feel free to explore my projects or reach out. **I'd love to connect and talk about data, AI, or the next challenge worth building.**
+Outside of data pipelines and cloud diagrams, I enjoy exploring new technologies, contributing to open-source, and turning complex problems into elegant systems. Thanks for visiting my portfolio — feel free to explore my projects or reach out. **I'd love to connect and talk about data, AI, or the next challenge worth building.**
 
 ```yaml
 name:       Khalifa Ababacar Seck
 role:       Data Engineer · Analytics Engineer · Data Analyst
-education:  Master's in Computer Science — University of Sherbrooke (2025 – 08/2026)
+education:  Master's in Computer Science — Université de Sherbrooke (2025 – 08/2026)
 languages:  French · English · Wolof
-location:   Quebec, CANADA  (originally from Senegal)
+location:   Quebec, CANADA  (originally from Diourbel, Senegal)
 focus:      Modern data platforms · Real-time streaming · AI-powered analytics
 ```
 
@@ -268,17 +268,34 @@ focus:      Modern data platforms · Real-time streaming · AI-powered analytics
 ## 05 · GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalifaSeck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0&cache_seconds=1800" height="180" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff" height="180" alt="GitHub streak"/>
+  <a href="https://github.com/KhalifaSeck">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhalifaSeck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0&v=3" height="180" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/KhalifaSeck">
+    <img src="https://streak-stats.demolab.com?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff&v=3" height="180" alt="GitHub streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8&cache_seconds=1800" height="180" alt="Top languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KhalifaSeck&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=10" height="180" alt="Trophies"/>
+  <a href="https://github.com/KhalifaSeck">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8&v=3" height="180" alt="Top languages"/>
+  </a>
+  <a href="https://github.com/KhalifaSeck">
+    <img src="https://github-profile-trophy.vercel.app/?username=KhalifaSeck&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=10&v=3" height="180" alt="Trophies"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalifaSeck&theme=tokyo-night&bg_color=0a0e27&color=00d9ff&line=a855f7&point=14b8a6&hide_border=true&area=true" width="100%" alt="Activity graph"/>
+  <a href="https://github.com/KhalifaSeck">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalifaSeck&theme=tokyo-night&bg_color=0a0e27&color=00d9ff&line=a855f7&point=14b8a6&hide_border=true&area=true&v=3" width="100%" alt="Activity graph"/>
+  </a>
+</p>
+
+<!-- Contribution graph fallback (always works — no dependency on external services) -->
+<p align="center">
+  <a href="https://github.com/KhalifaSeck">
+    <img src="https://ghchart.rshah.org/00d9ff/KhalifaSeck" width="100%" alt="KhalifaSeck contribution chart"/>
+  </a>
 </p>
 
 <!-- Snake contribution animation (activated via .github/workflows/snake.yml) -->
@@ -295,7 +312,7 @@ focus:      Modern data platforms · Real-time streaming · AI-powered analytics
 <td width="70px" align="center" valign="top">🎓</td>
 <td valign="top">
 <b>Master's Degree — Computer Science</b><br/>
-<i>University of Sherbrooke</i>  ·  Sherbrooke, Canada  ·  <code>2025 – 08/2026</code><br/>
+<i>Université de Sherbrooke</i>  ·  Sherbrooke, Canada  ·  <code>2025 – 08/2026</code><br/>
 Focus: Data Engineering  ·  Information Systems  ·  Data Science
 </td>
 </tr>
@@ -303,7 +320,7 @@ Focus: Data Engineering  ·  Information Systems  ·  Data Science
 <td width="70px" align="center" valign="top">🎓</td>
 <td valign="top">
 <b>Master's Degree — Statistics &amp; Decision-Making Informatics</b><br/>
-<i>University Alioune Diop of Bambey</i>  ·  Diourbel, Senegal  ·  <code>2021 – 2023</code><br/>
+<i>Université Alioune Diop</i>  ·  Diourbel, Senegal  ·  <code>2021 – 2023</code><br/>
 Focus: Statistical modeling  ·  Business intelligence  ·  Data-driven decision systems
 </td>
 </tr>
@@ -311,7 +328,7 @@ Focus: Statistical modeling  ·  Business intelligence  ·  Data-driven decision
 <td width="70px" align="center" valign="top">🎓</td>
 <td valign="top">
 <b>Bachelor's Degree — Statistics &amp; Decision-Making Informatics</b><br/>
-<i>University Alioune Diop of Bambey</i>  ·  Diourbel, Senegal  ·  <code>2018 – 2020</code><br/>
+<i>Université Alioune Diop</i>  ·  Diourbel, Senegal  ·  <code>2018 – 2020</code><br/>
 Focus: Mathematics  ·  Statistics  ·  Programming fundamentals
 </td>
 </tr>
