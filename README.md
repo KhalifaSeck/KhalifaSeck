@@ -1,16 +1,300 @@
-## Hi there 👋
+<!-- ============================================================ -->
+<!--    KHALIFA ABABACAR SECK  ·  GitHub Profile README            -->
+<!-- ============================================================ -->
 
-<!--
-**KhalifaSeck/KhalifaSeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/banner/hero-banner.svg" alt="Khalifa Ababacar Seck — Data Engineer" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/KhalifaSeck"><img src="https://img.shields.io/badge/GitHub-KhalifaSeck-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khalifa-ababacar-seck-a1632a1a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:seckhalifaa@gmail.com"><img src="https://img.shields.io/badge/Email-seckhalifaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Quebec%2C%20CANADA-14b8a6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhalifaSeck&label=Profile%20views&color=00d9ff&style=flat"/>
+  <img src="https://img.shields.io/github/followers/KhalifaSeck?label=Followers&style=flat&color=a855f7"/>
+</p>
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 01 · About Me
+
+I'm a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**.
+
+I design and build end-to-end data systems — from ingestion and real-time streaming to cloud infrastructure, data warehousing, analytics and AI-powered applications. My recent work brings together **Python**, **SQL**, **Kafka**, **Spark**, **Snowflake**, **dbt**, **Azure**, **Kubernetes**, **Terraform**, **FastAPI**, **Neo4j** and **LangGraph**.
+
+I'm particularly interested in building **reliable, scalable and observable data platforms** that turn complex data into useful insights.
+
+```yaml
+name:       Khalifa Ababacar Seck
+role:       Data Engineer · Analytics Engineer · Data Analyst
+education:  Master's in Computer Science — Université de Sherbrooke
+location:   Quebec, CANADA
+focus:      Modern data platforms · Real-time streaming · AI-powered analytics
+open_to:    Full-time · Internship · Freelance
+```
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 02 · Technical Skills
+
+### Data Engineering & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Cloud & Data Platforms
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Databases & Modeling
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### AI & Agentic AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### DevOps & Collaboration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### Observability & Data Quality
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6E42?style=for-the-badge&logo=data&logoColor=white)
+
+### Soft Skills
+`Agile / Scrum`  ·  `Jira`  ·  `Confluence`  ·  `Documentation`  ·  `Communication`  ·  `Problem Solving`
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 03 · Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/KhalifaSeck/realtime-gaming-platform">
+  <img src="./assets/projects/gaming-platform-preview.svg" alt="Real-Time Gaming Intelligence Platform"/>
+</a>
+<h3>🎮 <a href="https://github.com/KhalifaSeck/realtime-gaming-platform">realtime-gaming-platform</a></h3>
+<p>Cloud-native end-to-end data platform combining real-time streaming, batch ingestion, analytics, knowledge graphs and AI on ~100K video games.</p>
+<p>
+<img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/KhalifaSeck/realtime-delivery-lakehouse">
+  <img src="./assets/projects/delivery-lakehouse-preview.svg" alt="Real-Time Delivery Lakehouse"/>
+</a>
+<h3>🚚 <a href="https://github.com/KhalifaSeck/realtime-delivery-lakehouse">realtime-delivery-lakehouse</a></h3>
+<p>Real-time delivery analytics platform using Kafka, Spark Structured Streaming and Delta Lake. Live KPIs, driver &amp; vehicle tracking, historical analytics.</p>
+<p>
+<img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-003366?logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/KhalifaSeck/Steam-Intelligence-Platform">
+  <img src="./assets/projects/steam-intelligence-preview.svg" alt="Steam Intelligence Platform"/>
+</a>
+<h3>🎯 <a href="https://github.com/KhalifaSeck/Steam-Intelligence-Platform">Steam-Intelligence-Platform</a></h3>
+<p>Steam data analytics platform with data collection, processing pipelines, analytical warehouse, dashboards and insights on games, reviews, players and tags.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-4B0082?logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/KhalifaSeck/marketing-funnel">
+  <img src="./assets/projects/marketing-funnel-preview.svg" alt="Marketing Funnel Analytics"/>
+</a>
+<h3>📊 <a href="https://github.com/KhalifaSeck/marketing-funnel">marketing-funnel</a></h3>
+<p>Marketing funnel analysis project with data pipelines, funnel visualization, conversion tracking and performance metrics.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/KhalifaSeck/asr-wolof-speech-recognition">
+  <img src="./assets/projects/wolof-asr-preview.svg" alt="Wolof Automatic Speech Recognition"/>
+</a>
+<h3>🗣️ <a href="https://github.com/KhalifaSeck/asr-wolof-speech-recognition">asr-wolof-speech-recognition</a></h3>
+<p>Automatic Speech Recognition for Wolof using Wav2Vec2 and Whisper models. Preprocessing, training, evaluation and inference — WER ≈ 0.39.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wav2Vec2-FFD21E?logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Whisper-412991?logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/KhalifaSeck/EHR-Practice-Fusion-Data-Pipeline">
+  <img src="./assets/projects/ehr-pipeline-preview.svg" alt="EHR Data Engineering Pipeline"/>
+</a>
+<h3>🏥 <a href="https://github.com/KhalifaSeck/EHR-Practice-Fusion-Data-Pipeline">EHR-Practice-Fusion-Data-Pipeline</a></h3>
+<p>End-to-end ELT pipeline for healthcare data using Airflow, Snowflake and dbt. Ingestion, transformation, data modeling and analytical reporting.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Great_Expectations-FF6E42?logo=data&logoColor=white"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/KhalifaSeck/olist-data-quality">
+  <img src="./assets/projects/olist-quality-preview.svg" alt="Olist Data Quality Framework"/>
+</a>
+<h3>✅ <a href="https://github.com/KhalifaSeck/olist-data-quality">olist-data-quality</a></h3>
+<p>Data quality assessment framework for Olist dataset — profiling, validation rules, data quality scoring and automated reports.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Great_Expectations-FF6E42?logo=data&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🧭 More projects</h3>
+<ul>
+<li><a href="https://github.com/KhalifaSeck/videogames-analytics-platform"><b>videogames-analytics-platform</b></a> — video games analytics dashboards for business intelligence.</li>
+<li><a href="https://github.com/KhalifaSeck/Fullstack-Data-Engineering-Project"><b>Fullstack-Data-Engineering-Project</b></a> — Docker · PostgreSQL · Terraform · dbt · Airflow.</li>
+<li><a href="https://github.com/KhalifaSeck/openfoodfacts-pipeline"><b>openfoodfacts-pipeline</b></a> — Python · API · ETL pipeline over OpenFoodFacts.</li>
+<li><a href="https://github.com/KhalifaSeck/IMPLEMENTATION-FROM-SCRATCH-DES-KNN-VOISINS"><b>knn-from-scratch</b></a> — KNN algorithm implemented from scratch in Python.</li>
+</ul>
+<p>➡ <a href="https://github.com/KhalifaSeck?tab=repositories">See all repositories</a></p>
+</td>
+</tr>
+</table>
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 04 · End-to-End Data Platform Architecture
+
+<p align="center">
+  <img src="./assets/architecture/data-stack-overview.svg" alt="End-to-end data platform architecture" width="100%"/>
+</p>
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 05 · GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhalifaSeck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalifaSeck&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalifaSeck&theme=tokyo-night&bg_color=0a0e27&color=00d9ff&line=a855f7&point=14b8a6&hide_border=true&area=true" width="100%"/>
+</p>
+
+<!-- Snake contribution animation (activated via .github/workflows/snake.yml) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhalifaSeck/KhalifaSeck/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 06 · Education
+
+**🎓 Université de Sherbrooke** — *Master's Degree, Computer Science* — `2025 – 2026`
+Focus: `Data Engineering`  ·  `Data Science`  ·  `Information Systems`
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 07 · Currently Building
+
+- ⚡ Real-time data pipelines at scale
+- ☁️ Cloud-native data platforms on Azure & GCP
+- 🧠 AI-powered analytics applications (LangGraph · Ollama)
+- 🕸️ Knowledge graphs with Neo4j
+- 📊 Data quality & observability frameworks
+
+<img src="./assets/sections/divider.svg" width="100%"/>
+
+## 08 · Let's Connect
+
+<p>Interested in <b>data engineering</b>, <b>analytics</b> or <b>AI</b>? Let's talk.</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/khalifa-ababacar-seck-a1632a1a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:seckhalifaa@gmail.com"><img src="https://img.shields.io/badge/Email-seckhalifaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/KhalifaSeck"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<blockquote>
+  <i>"Turning data into insights. Building systems that make an impact."</i>
+</blockquote>
+
+<p align="center">
+  <sub>⚡ Crafted with attention to detail  ·  Last updated 2026</sub>
+</p>

@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="End-to-end data platform architecture">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#0f1729"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a855f7"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg2)" rx="12"/>
+
+  <!-- Title -->
+  <text x="30" y="40" font-family="'Inter', sans-serif" font-size="16" font-weight="700" fill="#e2e8f0" letter-spacing="2">END-TO-END DATA PLATFORM ARCHITECTURE</text>
+  <rect x="30" y="50" width="60" height="2" fill="url(#flow)"/>
+
+  <!-- 8 stages -->
+  <g font-family="'Inter', sans-serif" transform="translate(30, 90)">
+
+    <!-- Stage 1: SOURCES -->
+    <g>
+      <rect x="0" y="0" width="130" height="140" rx="10" fill="#0f1729" stroke="#00d9ff" stroke-width="1.5" stroke-opacity="0.5"/>
+      <text x="65" y="24" text-anchor="middle" font-size="10" font-weight="700" fill="#00d9ff" letter-spacing="1.5">SOURCES</text>
+      <line x1="20" y1="34" x2="110" y2="34" stroke="#00d9ff" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="65" y="60" text-anchor="middle" font-size="11" fill="#e2e8f0">IGDB API</text>
+      <text x="65" y="82" text-anchor="middle" font-size="11" fill="#e2e8f0">SteamSpy</text>
+      <text x="65" y="104" text-anchor="middle" font-size="11" fill="#e2e8f0">Databases</text>
+      <text x="65" y="126" text-anchor="middle" font-size="11" fill="#e2e8f0">Files / Logs</text>
+    </g>
+
+    <!-- arrow -->
+    <line x1="135" y1="70" x2="155" y2="70" stroke="#a855f7" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Stage 2: INGESTION -->
+    <g transform="translate(160, 0)">
+      <rect x="0" y="0" width="130" height="140" rx="10" fill="#0f1729" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.5"/>
+      <text x="65" y="24" text-anchor="middle" font-size="10" font-weight="700" fill="#22d3ee" letter-spacing="1.5">INGESTION</text>
+      <line x1="20" y1="34" x2="110" y2="34" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="65" y="60" text-anchor="middle" font-size="11" fill="#e2e8f0">Airflow</text>
+      <text x="65" y="82" text-anchor="middle" font-size="11" fill="#e2e8f0">Kafka</text>
+      <text x="65" y="104" text-anchor="middle" font-size="11" fill="#e2e8f0">Python</text>
+      <text x="65" y="126" text-anchor="middle" font-size="11" fill="#e2e8f0">REST APIs</text>
+    </g>
+
+    <line x1="295" y1="70" x2="315" y2="70" stroke="#a855f7" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Stage 3: STREAMING -->
+    <g transform="translate(320, 0)">
+      <rect x="0" y="0" width="130" height="140" rx="10" fill="#0f1729" stroke="#a855f7" stroke-width="1.5" stroke-opacity="0.5"/>
+      <text x="65" y="24" text-anchor="middle" font-size="10" font-weight="700" fill="#a855f7" letter-spacing="1.5">STREAMING</text>
+      <line x1="20" y1="34" x2="110" y2="34" stroke="#a855f7" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="65" y="60" text-anchor="middle" font-size="11" fill="#e2e8f0">Kafka</text>
+      <text x="65" y="82" text-anchor="middle" font-size="11" fill="#e2e8f0">Spark Struct.</text>
+      <text x="65" y="104" text-anchor="middle" font-size="11" fill="#e2e8f0">Streaming</text>
+      <text x="65" y="126" text-anchor="middle" font-size="11" fill="#e2e8f0">Redis</text>
+    </g>
+
+    <line x1="455" y1="70" x2="475" y2="70" stroke="#a855f7" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Stage 4: LAKE -->
+    <g transform="translate(480, 0)">
+      <rect x="0" y="0" width="130" height="140" rx="10" fill="#0f1729" stroke="#14b8a6" stroke-width="1.5" stroke-opacity="0.5"/>
+      <text x="65" y="24" text-anchor="middle" font-size="10" font-weight="700" fill="#14b8a6" letter-spacing="1.5">DATA LAKE</text>
+      <line x1="20" y1="34" x2="110" y2="34" stroke="#14b8a6" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="65" y="60" text-anchor="middle" font-size="11" fill="#e2e8f0">ADLS Gen2</text>
+      <text x="65" y="82" text-anchor="middle" font-size="11" fill="#e2e8f0">Delta Lake</text>
+      <text x="65" y="104" text-anchor="middle" font-size="11" fill="#e2e8f0">Parquet</text>
+      <text x="65" y="126" text-anchor="middle" font-size="11" fill="#e2e8f0">Bronze layer</text>
+    </g>
+
+    <line x1="615" y1="70" x2="635" y2="70" stroke="#a855f7" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Stage 5: WAREHOUSE -->
+    <g transform="translate(640, 0)">
+      <rect x="0" y="0" width="130" height="140" rx="10" fill="#0f1729" stroke="#00d9ff" stroke-width="1.5" stroke-opacity="0.5"/>
+      <text x="65" y="24" text-anchor="middle" font-size="10" font-weight="700" fill="#00d9ff" letter-spacing="1.5">WAREHOUSE</text>
+      <line x1="20" y1="34" x2="110" y2="34" stroke="#00d9ff" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="65" y="60" text-anchor="middle" font-size="11" fill="#e2e8f0">Snowflake</text>
+      <text x="65" y="82" text-anchor="middle" font-size="11" fill="#e2e8f0">BigQuery</text>
+      <text x="65" y="104" text-anchor="middle" font-size="11" fill="#e2e8f0">PostgreSQL</text>
+      <text x="65" y="126" text-anchor="middle" font-size="11" fill="#e2e8f0">Silver / Gold</text>
+    </g>
+
+    <line x1="775" y1="70" x2="795" y2="70" stroke="#a855f7" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Stage 6: TRANSFORMATION -->
+    <g transform="translate(800, 0)">
+      <rect x="0" y="0" width="130" height="140" rx="10" fill="#0f1729" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.5"/>
+      <text x="65" y="24" text-anchor="middle" font-size="10" font-weight="700" fill="#22d3ee" letter-spacing="1.5">TRANSFORM</text>
+      <line x1="20" y1="34" x2="110" y2="34" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="65" y="60" text-anchor="middle" font-size="11" fill="#e2e8f0">dbt Core</text>
+      <text x="65" y="82" text-anchor="middle" font-size="11" fill="#e2e8f0">Modeling</text>
+      <text x="65" y="104" text-anchor="middle" font-size="11" fill="#e2e8f0">Tests</text>
+      <text x="65" y="126" text-anchor="middle" font-size="11" fill="#e2e8f0">Documentation</text>
+    </g>
+
+    <line x1="935" y1="70" x2="955" y2="70" stroke="#a855f7" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Stage 7: SERVING -->
+    <g transform="translate(960, 0)">
+      <rect x="0" y="0" width="180" height="140" rx="10" fill="#0f1729" stroke="#a855f7" stroke-width="1.5" stroke-opacity="0.5"/>
+      <text x="90" y="24" text-anchor="middle" font-size="10" font-weight="700" fill="#a855f7" letter-spacing="1.5">SERVING &amp; ANALYTICS</text>
+      <line x1="20" y1="34" x2="160" y2="34" stroke="#a855f7" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="90" y="60" text-anchor="middle" font-size="11" fill="#e2e8f0">FastAPI  ·  Neo4j</text>
+      <text x="90" y="82" text-anchor="middle" font-size="11" fill="#e2e8f0">Power BI  ·  Streamlit</text>
+      <text x="90" y="104" text-anchor="middle" font-size="11" fill="#e2e8f0">LangGraph  ·  Ollama</text>
+      <text x="90" y="126" text-anchor="middle" font-size="11" fill="#e2e8f0">AI Agents</text>
+    </g>
+  </g>
+
+  <!-- Observability footer bar -->
+  <g transform="translate(30, 260)">
+    <rect x="0" y="0" width="1140" height="40" rx="8" fill="#0f1729" stroke="#334155" stroke-width="1"/>
+    <text x="20" y="25" font-size="11" font-weight="700" fill="#14b8a6" letter-spacing="1.5">OBSERVABILITY &amp; QUALITY</text>
+    <text x="260" y="25" font-size="12" fill="#94a3b8">Prometheus  ·  Grafana  ·  Great Expectations  ·  Elasticsearch  ·  Kibana  ·  GitHub Actions  ·  Terraform  ·  Kubernetes</text>
+  </g>
+</svg>
