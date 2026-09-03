@@ -37,7 +37,6 @@ education:  Master's in Computer Science — Université de Sherbrooke (2025 –
 languages:  French · English · Wolof
 location:   Quebec, CANADA  (originally from Diourbel, Senegal)
 focus:      Modern data platforms · Real-time streaming · AI-powered analytics
-open_to:    Full-time · Internship · Freelance
 ```
 
 <img src="./assets/sections/divider.svg" width="100%"/>
