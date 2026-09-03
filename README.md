@@ -22,17 +22,20 @@
 
 ## 01 · About Me
 
-I'm a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**.
+Hi, I'm **Khalifa Ababacar Seck**, a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**. Originally from **Diourbel, Senegal**, I moved to **Quebec, Canada** to pursue a Master's in Computer Science at the **Université de Sherbrooke**, focusing on data engineering, data science and information systems.
 
-I design and build end-to-end data systems — from ingestion and real-time streaming to cloud infrastructure, data warehousing, analytics and AI-powered applications. My recent work brings together **Python**, **SQL**, **Kafka**, **Spark**, **Snowflake**, **dbt**, **Azure**, **Kubernetes**, **Terraform**, **FastAPI**, **Neo4j** and **LangGraph**.
+My journey with data started in Senegal, where I earned a Bachelor's and a Master's in **Statistics and Decision-Making Informatics** at the Université Alioune Diop, before deepening my skills in modern data platforms and cloud infrastructure in Canada. I love the whole life-cycle of data — designing **ingestion pipelines**, building **real-time streaming architectures**, modeling with **dbt** on warehouses like **Snowflake**, and shipping **AI-powered analytics** and dashboards that people actually use.
 
-I'm particularly interested in building **reliable, scalable and observable data platforms** that turn complex data into useful insights.
+Collaboration and clear communication are at the core of how I work. I'm fluent in **French**, **English** and **Wolof** — a language I even taught to a speech-recognition model in one of my recent projects — and I thrive in multicultural, cross-functional environments.
+
+Outside of data pipelines and cloud diagrams, I enjoy exploring new technologies, contributing to open-source, and turning complex problems into elegant systems. Thanks for visiting my portfolio — feel free to explore my projects or reach out. **I'd love to connect and talk about data, AI, or the next challenge worth building.**
 
 ```yaml
 name:       Khalifa Ababacar Seck
 role:       Data Engineer · Analytics Engineer · Data Analyst
-education:  Master's in Computer Science — Université de Sherbrooke
-location:   Quebec, CANADA
+education:  Master's in Computer Science — Université de Sherbrooke (2025 – 08/2026)
+languages:  French · English · Wolof
+location:   Quebec, CANADA  (originally from Diourbel, Senegal)
 focus:      Modern data platforms · Real-time streaming · AI-powered analytics
 open_to:    Full-time · Internship · Freelance
 ```
@@ -41,62 +44,84 @@ open_to:    Full-time · Internship · Freelance
 
 ## 02 · Technical Skills
 
-### Data Engineering & Automation
+### 🛠️ Data Engineering & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=fastapi&logoColor=white)
+![ETL / ELT](https://img.shields.io/badge/ETL_%2F_ELT-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Cloud & Data Platforms
+### ☁️ Cloud & Data Platforms
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Databases & Modeling
+### 🗄️ Databases & Modeling
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Analytics & Visualization
+`Relational & dimensional modeling`  ·  `SQL optimization`  ·  `Data governance`  ·  `Performance tuning`
+
+### 📊 Data Analytics & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### AI & Agentic AI
+`KPIs`  ·  `Statistical analysis`  ·  `Tabular & geospatial data`  ·  `Data storytelling`
+
+### 🧠 AI, Machine Learning & Agentic AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![smolagents](https://img.shields.io/badge/smolagents-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### DevOps & Collaboration
+`LLMs`  ·  `Agent orchestration`  ·  `Tool integration`  ·  `AI workflow automation`
+
+### 🧑‍💻 Software Development & Collaboration
+![OOP Python](https://img.shields.io/badge/OOP_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### Observability & Data Quality
+### 🔎 Observability & Data Quality
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6E42?style=for-the-badge&logo=data&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6E42?style=for-the-badge&logo=data&logoColor=white)
 
-### Soft Skills
-`Agile / Scrum`  ·  `Jira`  ·  `Confluence`  ·  `Documentation`  ·  `Communication`  ·  `Problem Solving`
+`Pipeline monitoring`  ·  `Anomaly detection`  ·  `Data validation`  ·  `Quality scoring`
+
+### 🤝 Methods & Collaboration
+![Agile](https://img.shields.io/badge/Agile_%2F_Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+`Requirements analysis`  ·  `Technical documentation`  ·  `Communication`  ·  `Problem solving`
 
 <img src="./assets/sections/divider.svg" width="100%"/>
 
@@ -244,17 +269,17 @@ open_to:    Full-time · Internship · Freelance
 ## 05 · GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalifaSeck&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhalifaSeck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=a855f7&text_color=e2e8f0&cache_seconds=1800" height="180" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=KhalifaSeck&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=a855f7&fire=a855f7&currStreakLabel=00d9ff" height="180" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KhalifaSeck&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalifaSeck&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=e2e8f0&langs_count=8&cache_seconds=1800" height="180" alt="Top languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalifaSeck&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=10" height="180" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalifaSeck&theme=tokyo-night&bg_color=0a0e27&color=00d9ff&line=a855f7&point=14b8a6&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhalifaSeck&theme=tokyo-night&bg_color=0a0e27&color=00d9ff&line=a855f7&point=14b8a6&hide_border=true&area=true" width="100%" alt="Activity graph"/>
 </p>
 
 <!-- Snake contribution animation (activated via .github/workflows/snake.yml) -->
@@ -266,8 +291,32 @@ open_to:    Full-time · Internship · Freelance
 
 ## 06 · Education
 
-**🎓 Université de Sherbrooke** — *Master's Degree, Computer Science* — `2025 – 2026`
-Focus: `Data Engineering`  ·  `Data Science`  ·  `Information Systems`
+<table>
+<tr>
+<td width="70px" align="center" valign="top">🎓</td>
+<td valign="top">
+<b>Master's Degree — Computer Science</b><br/>
+<i>Université de Sherbrooke</i>  ·  Sherbrooke, Canada  ·  <code>2025 – 08/2026</code><br/>
+Focus: Data Engineering  ·  Information Systems  ·  Data Science
+</td>
+</tr>
+<tr>
+<td width="70px" align="center" valign="top">🎓</td>
+<td valign="top">
+<b>Master's Degree — Statistics &amp; Decision-Making Informatics</b><br/>
+<i>Université Alioune Diop</i>  ·  Diourbel, Senegal  ·  <code>2021 – 2023</code><br/>
+Focus: Statistical modeling  ·  Business intelligence  ·  Data-driven decision systems
+</td>
+</tr>
+<tr>
+<td width="70px" align="center" valign="top">🎓</td>
+<td valign="top">
+<b>Bachelor's Degree — Statistics &amp; Decision-Making Informatics</b><br/>
+<i>Université Alioune Diop</i>  ·  Diourbel, Senegal  ·  <code>2018 – 2020</code><br/>
+Focus: Mathematics  ·  Statistics  ·  Programming fundamentals
+</td>
+</tr>
+</table>
 
 <img src="./assets/sections/divider.svg" width="100%"/>
 
@@ -275,7 +324,7 @@ Focus: `Data Engineering`  ·  `Data Science`  ·  `Information Systems`
 
 - ⚡ Real-time data pipelines at scale
 - ☁️ Cloud-native data platforms on Azure & GCP
-- 🧠 AI-powered analytics applications (LangGraph · Ollama)
+- 🧠 AI-powered analytics applications (LangGraph · Ollama · smolagents)
 - 🕸️ Knowledge graphs with Neo4j
 - 📊 Data quality & observability frameworks
 
