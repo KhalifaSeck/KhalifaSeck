@@ -22,7 +22,7 @@
 
 ## 01 · About Me
 
-Hi, I'm **Khalifa Ababacar Seck**, a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**. Originally from **Diourbel, Senegal**, I moved to **Quebec, Canada** to pursue a Master's in Computer Science at the **Université de Sherbrooke**, focusing on data engineering, data science and information systems.
+Hi, I'm **Khalifa Ababacar Seck**, a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**. Originally from **Senegal**, I moved to **Quebec, Canada** to pursue a Master's in Computer Science at the **University of Sherbrooke**, focusing on data engineering, data science and information systems.
 
 My journey with data started in Senegal, where I earned a Bachelor's and a Master's in **Statistics and Decision-Making Informatics** at the Université Alioune Diop, before deepening my skills in modern data platforms and cloud infrastructure in Canada. I love the whole life-cycle of data — designing **ingestion pipelines**, building **real-time streaming architectures**, modeling with **dbt** on warehouses like **Snowflake**, and shipping **AI-powered analytics** and dashboards that people actually use.
 
