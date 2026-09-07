@@ -24,16 +24,16 @@
 
 Hi, I'm **Khalifa Ababacar Seck**, a Computer Science graduate specializing in **Data Engineering**, **Analytics Engineering** and **Data Analysis**. Originally from **Senegal**, I moved to **Quebec, Canada** to pursue a Master's in Computer Science at the **University of Sherbrooke**, focusing on data engineering, data science and information systems.
 
-My journey with data started in Senegal, where I earned a Bachelor's and a Master's in **Statistics and Decision-Making Informatics** at the Université Alioune Diop, before deepening my skills in modern data platforms and cloud infrastructure in Canada. I love the whole life-cycle of data — designing **ingestion pipelines**, building **real-time streaming architectures**, modeling with **dbt** on warehouses like **Snowflake**, and shipping **AI-powered analytics** and dashboards that people actually use.
+My journey with data started in Senegal, where I earned a Bachelor's and a Master's in **Statistics and Decision-Making Informatics** at the Université Alioune Diop, before deepening my skills in modern data platforms and cloud infrastructure in Canada. I love the whole life-cycle of data designing **ingestion pipelines**, building **real-time streaming architectures**, modeling with **dbt** on warehouses like **Snowflake**, and shipping **AI-powered analytics** and dashboards that people actually use.
 
-Collaboration and clear communication are at the core of how I work. I'm fluent in **French**, **English** and **Wolof** — a language I even taught to a speech-recognition model in one of my recent projects — and I thrive in multicultural, cross-functional environments.
+Collaboration and clear communication are at the core of how I work. I'm fluent in **French**, **English** and **Wolof** a language I even taught to a speech-recognition model in one of my recent projects and I thrive in multicultural, cross-functional environments.
 
-Outside of data pipelines and cloud diagrams, I enjoy exploring new technologies, contributing to open-source, and turning complex problems into elegant systems. Thanks for visiting my portfolio — feel free to explore my projects or reach out. **I'd love to connect and talk about data, AI, or the next challenge worth building.**
+Outside of data pipelines and cloud diagrams, I enjoy exploring new technologies, contributing to open-source, and turning complex problems into elegant systems. Thanks for visiting my portfolio feel free to explore my projects or reach out. **I'd love to connect and talk about data, AI, or the next challenge worth building.**
 
 ```yaml
 name:       Khalifa Ababacar Seck
 role:       Data Engineer · Analytics Engineer · Data Analyst
-education:  Master's in Computer Science — Université de Sherbrooke (2025 – 08/2026)
+education:  Master's in Computer Science — University of Sherbrooke (2025 – 2026)
 languages:  French · English · Wolof
 location:   Quebec, CANADA  (originally from Diourbel, Senegal)
 focus:      Modern data platforms · Real-time streaming · AI-powered analytics
